@@ -1,0 +1,1505 @@
+hotel:2405:hotel
+quartos:1454:instalações
+quarto:1274:instalações
+atendimento:962:serviço
+localização:805:localização
+piscina:789:instalações
+vista:672:zona
+funcionários:521:serviço
+rio:476:zona
+estacionamento:434:instalações
+banheiro:426:equipamento
+serviço:363:serviço
+cama:342:equipamento
+custo:329:preço
+preço:321:preço
+decoração:315:decoração
+lugar:305:localização
+almoço:277:comida
+staff:270:serviço
+limpeza:264:serviço
+ambiente:263:zona
+relação:261:serviço
+espaço:256:instalações
+comida:255:comida
+banho:253:outros
+local:249:localização
+restaurante:245:comida
+centro:243:instalações|zona|localização
+estadia:205:estadia
+ar:203:outros|zona
+pequeno almoço:200:comida
+área:197:instalações
+instalações:197:instalações
+pessoal:191:serviço
+água:188:comida
+noite:180:outros
+camas:175:equipamento
+rua:153:zona
+zona:152:zona
+avenida:150:zona
+recepção:149:serviço
+check:149:outros
+café:147:comida
+experiência:146:outros
+áreas:137:zona
+chuveiro:125:equipamento
+shopping:125:zona
+equipe:124:serviço
+internet:120:internet
+cidade:120:zona
+prédio:112:instalações
+acesso:112:zona
+restaurantes:100:comida
+acomodações:99:instalações
+hotéis:98:hotel
+espaços:97:instalações
+preços:96:preço
+palácio:95:outros
+pousada:94:outros
+vila:94:zona
+rede:94:internet
+spa:93:instalações
+estilo:88:decoração
+tempo:88:outros
+forma:88:outros
+estrutura:88:instalações
+wifi:87:equipamento
+atrações:86:zona
+room:86:instalações
+bairro:86:zona
+transporte:82:zona
+piscinas:79:instalações
+pessoas:79:serviço
+tudo:77:outros
+banheiros:76:instalações
+serviços:74:serviço
+ovos:74:comida
+isolamento:74:instalações
+edifício:73:instalações
+paisagem:72:zona
+pequeno-almoço:70:comida
+pratos:70:comida|equipamento
+parque:68:zona|instalações
+estação:68:zona
+passeios:67:zona
+passeio:67:zona
+cheiro:65:zona
+vistas:65:zona
+jardim:64:zona|instalações
+toalhas:64:equipamento
+praia:64:zona
+cozinha:63:instalações
+wi-fi:61:internet
+jantar:59:comida
+opções:58:outros
+aspecto:57:outros|decoração
+praça:57:zona
+apartamento:56:instalações
+apartamentos:54:instalações
+reserva:53:outros
+tv:52:equipamento
+jardins:52:zona|instalações
+localizado:52:localização
+grupo:52:outros
+opção:50:outros
+hospedagem:50:instalações
+funcionarios:50:serviço
+condomínio:49:instalações
+valor:49:preço
+zonas:49:zona
+refeições:48:comida
+suíte:44:instalações
+tratamento:43:serviço
+temperatura:43:zona
+arquitetura:43:decoração|instalações
+ambientes:42:zona
+suite:42:instalações
+vaso:42:equipamento
+malas:42:equipamento
+pessoa:42:serviço
+metrô:42:zona
+wc:41:instalações
+variedade:41:outros
+iluminação:41:outros|instalações
+região:40:zona
+hóspedes:39:outros
+elevador:39:instalações
+lençóis:38:equipamento
+quinta:38:zona
+prato:38:comida|equipamento
+pão:38:comida
+atendentes:37:serviço
+garagem:37:instalações
+casa:37:instalações
+pensão:36:instalações
+ducha:36:outros
+recepcionista:35:serviço
+empregados:35:serviço
+refeição:34:comida
+funcionário:34:serviço
+late:34:instalações
+colchão:34:equipamento
+frutas:34:comida
+comidas:34:comida
+condições:33:outros
+piscina interior:32:instalações
+aquecimento:32:instalações
+equipa:31:serviço
+gente:31:serviço
+noites:31:outros
+travesseiros:31:equipamento
+academia:30:instalações
+elevadores:30:instalações
+entrada:30:instalações
+nível:30:outros
+fruta:30:comida
+canais:30:zona
+design:30:decoração
+ala:29:instalações
+diária:29:comida
+acomodação:28:instalações
+janela:28:equipamento
+locais:28:zona
+buffet:27:comida
+informações:27:outros
+televisão:27:equipamento
+café da manhã:27:comida
+sitio:26:zona
+sala:26:instalações
+centros:26:zona
+funcionária:26:serviço
+mobiliário:25:equipamento
+varanda:25:instalações
+luz:25:instalações
+massagem:25:serviço
+porta:25:equipamento
+itens:25:equipamento|outros
+menu:24:comida|outros
+colaboradores:24:serviço
+lugares:24:zona
+chão:24:instalações
+pacote:24:outros
+produtos:24:equipamento
+sauna:24:instalações
+jacuzzi:24:instalações
+vinhos:23:comida
+oferta:23:outros|preço
+conta:23:preço
+relação custo:23:preço
+chocolate:23:comida
+história:23:história
+móveis:23:equipamento
+janelas:22:equipamento
+equipamentos:22:equipamento
+paredes:22:instalações
+alimentos:22:comida
+comodidades:22:instalações
+vidro:21:equipamento
+recepcionistas:21:serviço
+disposição:21:outros
+salas:21:instalações
+ruas:21:zona
+áreas comuns:20:zona
+som:20:outros
+termos:20:outros
+chef:20:comida|serviço
+informação:20:serviço
+area:19:instalações|zona
+música:19:outros|equipamento
+principais pontos:19:zona
+fachada:19:equipamento
+sucos:19:comida
+cenário:19:outros|decoração
+bebidas:19:comida
+relação preço:19:preço
+agua:19:comida|outros
+aspectos:18:outros
+frigobar:18:comida|equipamento
+bares:18:comida|instalações|zona
+bar:18:comida|instalações|zona
+clientes:18:outros
+condominio:18:instalações
+segurança:18:serviço
+higiene:18:outros|serviço
+sítio:18:zona|localização
+cofre:17:equipamento
+comércio:17:zona
+salão:17:instalações
+saída:17:outros
+taxa:17:preço
+aspeto:17:decoração|instalações
+chaleira:17:comida|equipamento
+andares:17:instalações
+cortinas:17:equipamento
+duche:17:outros|equipamento
+mesa:17:equipamento
+cardápio:16:comida
+clima:16:zona
+padrões:16:outros
+sabonete:16:equipamento
+mercado:16:zona|instalações
+suites:16:instalações
+atendente:16:serviço
+tarde:16:outros
+mar:16:zona
+box:16:equipamento
+queijo:16:comida
+chá:16:comida
+doces:16:comida
+tomadas:16:equipamento
+isolamento acústico:16:instalações
+toalha:16:equipamento
+edificio:16:instalações
+vinho:16:comida
+localizacao:15:localização
+sobremesa:15:comida
+fim-de-semana:15:outros
+lojas:15:zona
+supermercado:15:comida|zona
+leite:15:comida
+alimentação:15:comida
+dimensões:15:instalações
+interior:15:instalações
+shoppings:15:zona
+areas:15:instalações|zona
+referência:15:outros
+sumos:15:comida
+lanche:14:comida
+resto:14:outros
+transportes:14:zona
+carpete:14:equipamento
+momento:14:outros
+guia:14:serviço|outros|zona
+piso:14:instalações
+animação:14:serviço
+senhor:14:outros|serviço
+item:14:equipamento
+cafe:14:comida
+concierge:14:serviço
+room service:14:serviço
+praias:14:zona
+equipamento:13:equipamento
+turismo:13:zona|outros
+pontos turísticos:13:zona
+cafés:13:comida
+pack:13:outros
+infra:13:instalações
+hotelaria:13:comida|instalações|hotel
+carne:13:comida
+estabelecimentos:13:zona
+dinheiro:13:preço
+banheira:13:equipamento
+mesas:13:equipamento
+necessidades:13:outros
+predio:13:instalações
+férias:13:outros
+banho turco:13:instalações
+atmosfera:13:zona
+castelo:12:zona|instalações
+service:12:serviço
+visual:12:decoração
+detalhes:12:outros
+vidros:12:equipamento
+estadias:12:outros
+características:12:instalações|outros
+suítes:12:instalações
+chefe:12:comida|serviço
+enquadramento:12:instalações|localização|outros
+pães:12:comida
+programa:12:outros
+batata:12:comida
+profissionalismo:12:serviço
+corredores:12:instalações
+lobby:12:instalações
+disponibilidade:11:serviço
+bebida:11:comida
+aspetos:11:outros
+espreguiçadeiras:11:equipamento
+caminhada:11:zona
+remodelação:11:instalações
+pressão:11:outros|zona
+estado:11:instalações|outros
+tomada:11:equipamento
+unidade hoteleira:11:instalações|hotel|comida
+geral:11:outros
+receção:11:serviço
+atividades:11:zona|outros
+arquitectura:11:instalações
+gerente:11:serviço
+crítica:10:outros
+infraestrutura:10:instalações
+hoteis:10:hotel
+padaria:10:comida|zona
+secador:10:equipamento
+pagamento:10:preço
+acolhimento:10:serviço
+principais atrações:10:zona
+principais avenidas comerciais:10:zona|localização
+parede:10:instalações
+net:10:equipamento
+propaganda:10:serviço|outros
+espaços comuns:10:zona|instalações
+senhora:10:outros|serviço
+redes:10:outros
+funcionaria:10:serviço
+roupas:10:equipamento|outros
+flores:10:outros
+ruído:10:instalações|outros
+suco:9:comida
+mimos:9:serviço|outros
+cortina:9:equipamento
+sumo:9:comida
+cerveja:9:comida
+peixe:9:comida
+tarifa:9:preço
+colcha:9:equipamento
+biblioteca:9:instalações|zona
+apresentação:9:decoração
+parada:9:outros
+localizaçao:9:localização
+andar:9:instalações
+condiçoes:9:instalações
+forum:9:zona|outros
+arrumação:9:serviço
+gastronomia:9:comida
+berço:9:equipamento
+sofá:9:equipamento
+comentários:8:outros
+rapaz:8:outros
+corredor:8:instalações
+horários:8:outros
+shopping forum:8:zona
+distância:8:localização|zona
+cobertor:8:equipamento
+fontes:8:zona
+front:8:instalações|outros
+livraria:8:zona|instalações
+creme:8:comida
+refeicoes:8:comida|serviço
+formação:8:serviço|outros
+mobilidade:8:zona
+bolo:8:comida
+laranja:8:comida
+sistema:8:outros
+objetos:8:equipamento
+imagem:8:decoração|outros
+biscoitos:8:comida
+ar-condicionado:8:equipamento
+sobremesas:8:comida
+chuveirinho:8:equipamento
+churrasqueira:8:comida|equipamento
+garrafa:8:equipamento
+exterior:8:zona
+escadaria:8:instalações
+cobrança:8:preço
+programação:8:outros
+sofás:8:equipamento
+orla:8:zona
+monumento:8:zona
+pormenores:8:outros
+ementa:7:comida
+alojamento:7:instalações
+pisos:7:instalações
+maçãs:7:comida
+assistência:7:serviço
+ecrã:7:equipamento
+piscina externa:7:instalações
+escadas:7:instalações
+prédios:7:instalações
+cuidados:7:serviço
+pousadas:7:instalações
+placas:7:equipamento
+carga:7:outros
+mobília:7:equipamento
+confeitaria:7:comida|zona
+colchões:7:equipamento
+jantares:7:comida|serviço
+avenidas:7:zona
+recantos:7:zona
+pacotes:7:outros|preço
+escada:7:instalações
+relacao:7:outros
+tapete:7:equipamento
+organização:7:serviço
+vaso sanitário:7:equipamento
+aposentos:7:instalações
+diárias:7:comida|serviço
+arranjos:7:outros
+impressão:7:serviço|outros
+respeito:7:serviço|outros
+dona:7:outros|serviço
+instalação:7:instalações
+reformas:7:outros
+custo-benefício:7:preço
+deslocamento:7:localização|zona
+croissants:7:comida
+gin:7:comida
+salões:7:instalações
+carnes:7:comida
+aparelhos:7:equipamento
+poltronas:7:equipamento
+cobertores:7:equipamento
+relação qualidade/preço:6:preço
+iogurte:6:comida
+camareira:6:serviço
+bancos:6:zona|equipamento
+wi fi:6:equipamento
+croque:6:comida
+netflix:6:equipamento
+acustica:6:instalações
+peca:6:outros|zona
+bolos:6:comida
+cobertura:6:comida|instalações
+destino:6:outros
+comodidade:6:outros|serviço
+fundos:6:instalações
+tapa:6:outros|comida
+desorganização:6:serviço
+culinária:6:comida|serviço
+espaço exterior:6:instalações
+paisagens:6:zona
+colchas:6:equipamento
+ginásio:6:instalações
+espelho:6:equipamento
+espumante:6:comida
+plástico:6:equipamento
+presunto:6:comida
+cadeiras:6:equipamento
+estacionamento próprio:6:instalações
+lotação:6:outros
+dono:6:serviço
+relação qualidade preço:6:preço
+cabides:6:equipamento
+área comum:6:zona
+patrimônio:6:zona|outros
+ventilação:6:instalações
+estacionamento disponível:6:instalações
+aparência:6:decoração
+terreno:6:zona|localização
+bacalhau:6:comida
+copos:6:comida|equipamento
+decoracao:6:decoração
+alas:6:instalações
+azulejos:6:equipamento
+avaliações:6:outros
+projeto:6:outros
+teto:6:instalações
+arroz:6:comida
+cereja:6:comida
+pessoa responsável:6:serviço
+rede wifi:6:equipamento
+pátio:6:instalações
+instalacoes:5:instalações
+ovo:5:comida
+champanhe:5:comida
+lanches:5:comida
+conservação:5:instalações
+insonorizarão:5:instalações
+trabalhadores:5:serviço|outros
+transporte público:5:zona
+lençois:5:equipamento
+residencial:5:instalações
+laje:5:instalações
+pizza:5:comida
+coffee:5:comida
+madeira:5:outros
+palacete:5:instalações
+luzes:5:instalações|equipamento
+geladeira:5:comida|equipamento
+carpetes:5:equipamento
+cultura:5:zona
+quadras:5:outros
+internet wi-fi:5:equipamento
+museu:5:zona
+e-mail:5:outros
+mesinha:5:equipamento
+lixo:5:equipamento
+acessibilidade:5:localização|zona
+arte:5:decoração
+piscina exterior:5:instalações
+cortinados:5:equipamento
+ovos mexidos:5:comida
+loiça:5:comida|equipamento
+talheres:5:comida|equipamento
+locomoção:5:zona
+pia:5:equipamento
+descarga:5:outros
+placa:5:equipamento
+câmara:5:zona|equipamento
+sanita:5:equipamento
+massagens:5:serviço
+agilidade:5:outros
+hotel estilo:5:decoração
+historia:5:história
+travesseiro:5:equipamento
+filet:5:comida
+moveis:5:equipamento
+serviços disponíveis:5:serviço
+pagamentos:4:preço
+portão:4:equipamento
+molho:4:comida
+mel:4:comida
+camarões:4:comida
+vista rio:4:zona
+split:4:comida
+lavanderia:4:instalações
+postura:4:serviço
+peças:4:equipamento|zona
+brinquedos:4:equipamento
+funcionrios:4:serviço
+quarto vista:4:zona
+filme:4:outros
+lençol:4:equipamento
+habitações:4:instalações
+persiana:4:equipamento
+água mineral:4:comida
+edredom:4:equipamento
+terra:4:outros|zona
+infra-estrutura:4:instalações
+canalizações:4:instalações
+Áreas:4:zona
+publicidade:4:outros
+aroma:4:zona|comida
+descrição:4:outros
+obras internas:4:instalações
+espaghetti bolonhesa:4:comida
+cores:4:outros|decoração
+relação custo beneficio:4:preço
+guarnições:4:comida
+web:4:equipamento
+estacionamento subsolo incluso:4:instalações
+decoração estilo:4:decoração
+climatização:4:instalações
+terminal:4:zona
+ventilador:4:equipamento
+roteiro:4:zona
+papel higiênico:4:equipamento
+falésia:4:zona
+águas:4:comida|zona
+vista parcial:4:zona
+breakfast:4:comida
+parqueamento:4:zona|serviço
+coberta:4:instalações
+chocolate kit:4:comida
+homem:4:outros
+subchefe:4:serviço|comida
+correio:4:serviço
+pensão residencial:4:instalações
+atraçoes:4:zona
+centrinho:4:zona|instalações
+acústica:4:instalações
+chás:4:comida
+prestatividade:4:serviço
+área residencial:4:instalações
+espaghetti:4:comida
+eco:4:instalações
+armários:4:equipamento
+poliban:4:equipamento
+golfe:4:zona|outros|equipamento
+meninas:4:outros
+nata:4:comida
+estabelecimento:4:instalações
+eventos:4:zona
+alojamentos:4:instalações
+construções:4:zona|instalações
+espaços interiores:4:instalações
+jarro:4:equipamento
+jarra:4:equipamento
+lareira:4:equipamento
+ingredientes:4:comida|equipamento
+empregado:4:serviço
+cocktails:4:comida
+tosta:4:comida
+actividades:4:zona|outros
+noite no hotel:4:outros
+carpe:4:outros
+capela:4:zona|instalações
+mapa:4:outros|zona
+alcatifa:4:equipamento
+house:4:instalações
+bancada:4:equipamento
+hospitalidade:4:serviço
+entretenimentos:4:zona
+móvel:4:equipamento
+cenários:4:instalações|decoração
+funcionario:4:serviço
+ambientação:4:zona|instalações
+gerência:4:serviço
+fundação:4:instalações|outros
+caves:4:instalações
+sanduíche:4:comida
+papelaria:4:instalações|zona
+treinador:4:outros
+taxas:4:preço
+transito:4:zona
+mordomias:4:outros
+acomodaçoes:4:instalações
+estacionamento subsolo:4:instalações
+clube:4:outros
+garçons:4:serviço
+cocktail:4:comida
+tempero:4:comida
+almoços:4:comida
+melhor opção:4:outros
+centros comerciais:4:zona
+cadeira:4:equipamento
+parquinho:4:instalações
+buffet livre:4:comida|serviço
+regiao:4:zona
+musica:4:outros
+condomínios:4:instalações
+ostras:4:comida
+frutos:4:comida
+gins:4:comida
+bicicletas:4:equipamento
+pavimentos:4:instalações
+estacionamento externo:4:instalações
+hall:4:instalações
+vedação:4:instalações
+recepcionaista:4:serviço
+classificação:4:outros
+fundo:4:instalações
+lanchonetes:4:instalações|comida
+refrigeração:3:instalações|outros
+amendoa:3:comida
+louças:3:comida|equipamento
+água quente:3:equipamento|instalações
+snack:3:instalações|comida
+bilhar:3:equipamento
+despesas:3:preço
+quartos vista:3:zona
+assoalho:3:instalações
+hambúrguer:3:comida
+router:3:equipamento
+programas:3:zona|outros
+infraestruturas:3:instalações
+recepcao:3:serviço
+espaco:3:instalações
+música ambiente:3:outros
+pastelaria:3:instalações|comida|zona
+internet gratuita:3:equipamento
+pingo:3:comida
+barman:3:comida|serviço
+claboradores:3:serviço
+coffee shop:3:comida|zona
+menina:3:outros
+mobílias:3:equipamento
+ar condicionado:3:equipamento
+mínibar:3:comida|equipamento
+cogumelos:3:comida
+porteiro:3:serviço
+drink:3:comida
+drinks:3:comida
+terraço:3:instalações
+comodismos:3:instalações
+torrada:3:comida
+comidinha:3:comida
+boate:3:instalações|comida
+relação preço qualidade:3:preço
+utensílios:3:equipamento
+centro comercial:3:zona
+churrasco:3:comida
+laranjas:3:comida
+instalaçōes:3:instalações
+criados:3:serviço
+dôces:3:comida
+pub:3:instalações|zona
+areas comuns:3:zona
+edifico:3:instalações
+cervejas:3:comida
+almoco:3:comida
+colchao:3:equipamento
+discotecas:3:zona|instalações
+frustas:3:comida
+hard hock:3:zona|outros
+arrecadação:3:instalações
+estilo clássico:3:decoração
+refeiçoes:3:comida|serviço
+deslocação:3:zona|localização
+condicionador:3:equipamento
+hortelã:3:comida
+atedentes:3:serviço
+camareiras:3:serviço
+hamburguer:3:comida
+recepçao:3:serviço
+divisões:3:instalações
+feijoada:3:comida
+arranjos florais:3:outros
+videogame:3:equipamento
+pequeno almoco:3:comida
+shopping fórum:3:zona
+fazenda:3:instalações
+bolachas:3:comida
+souvenirs:3:zona
+arquiteto:3:outros
+queijos:3:comida
+preco:3:preço
+sofisticação:3:instalações
+casarão:3:instalações
+portas:3:equipamento
+arcondicionado:3:equipamento
+cafeteira:3:comida|instalações|zona
+trip:3:outros
+barracas:3:zona|instalações
+negócio:3:outros
+aperitivos:3:comida
+chalé:3:instalações
+iguarias:3:comida|zona
+compal:3:comida
+vertentes:3:zona|outros
+mojito:3:comida
+material:3:equipamento
+nespresso:3:comida|equipamento
+comunicação:3:serviço
+grandes centros:2:zona
+arrecadação individual:2:instalações
+rotatividade:2:outros|serviço
+caldo:2:comida
+mármores:2:instalações
+servico:2:serviço
+doors:2:equipamento
+adega:2:instalações|comida|zona
+localização central:2:zona|localização
+habitação:2:instalações
+jazz piano:2:equipamento
+hotéis na zona:2:zona|hotel
+lanchonete:2:instalações|comida
+minibar:2:equipamento|comida
+garçonete:2:serviço
+pequenino almoço:2:comida
+micro fatia:2:comida
+camas individuais:2:equipamento
+estacionamento no parque:2:instalações
+sé:2:instalações|zona
+iguaria:2:comida
+galeria:2:instalações|zona
+televisor:2:equipamento
+hard rock:2:outros
+comidinhas:2:comida
+experiência gastronómica:2:comida
+cozinha tradicional:2:comida|história
+materiais:2:outros
+molho branco:2:comida
+secção:2:instalações|outros
+espumante português:2:comida
+cervejaria:2:zona|comida
+sardinhas:2:comida
+leites:2:comida
+disposição estratégica:2:localização
+patrimonio:2:zona
+mossas:2:outros
+breakfast room:2:comida|serviço
+temperartura:2:zona
+edredon:2:equipamento
+tapetes:2:equipamento
+tours:2:zona
+diara:2:comida
+fast food:2:comida
+fechadura:2:equipamento
+conexões:2:zona|outros
+quarto lateral:2:instalações
+qualidade geral:2:outros
+pousada hotel:2:instalações
+iluminação indireta:2:instalações|equipamento
+hotel rural:2:hotel
+patio:2:instalações
+requisitos:2:outros
+moças:2:outros
+hote:2:hotel
+eventos musicais:2:zona
+compotas:2:comida
+bairro residencial:2:zona|localização
+garçon:2:serviço
+diaria:2:comida
+entrada+prato:2:comida
+moradores:2:outros|zona
+concierges:2:serviço
+parque infantil:2:instalações|zona
+euro:2:preço
+decorações:2:decoração
+shall:2:instalações
+sanduiches:2:comida
+instalação sanitária no quarto:2:instalações|equipamento
+canais desportivos:2:equipamento
+jarras:2:equipamento
+paninhos:2:equipamento
+custos:2:preço
+salmão:2:comida
+instalaçoes:2:instalações
+pequenoalmoço:2:comida
+assembleia:2:outros
+kit higiênico:2:equipamento
+quarto familiar:2:instalações
+chocolates:2:comida
+animals:2:outros|zona
+zonas publicas:2:zona
+animal:2:zona|outros
+condicionantes:2:outros
+cortinas plásticas:2:equipamento
+hotel quinta:2:hotel
+preço-qualidade:2:preço
+boutique:2:instalações|zona
+cristais:2:outros
+lugar turistico:2:zona|localização
+massagista:2:serviço
+centro comercial forum:2:zona
+maça:2:comida
+comunidades:2:zona
+louça:2:comida|equipamento
+trilha:2:zona
+organizaçao:2:serviço
+suite junior:2:instalações
+advertências:2:outros
+mansão:2:instalações
+afabilidade:2:serviço
+paisagismo:2:zona
+racio:2:outros
+caminhadas:2:zona
+manta:2:equipamento
+garagens:2:instalações
+rabanada:2:comida
+bruxelles:2:outros|comida
+vista no quarto:2:zona
+delivery:2:serviço
+estacionamento no subsolo:2:instalações
+saunas:2:instalações
+hotel moliceiro:2:hotel
+"cama extra":2:equipamento
+pesseio:2:zona
+comunidade:2:zona
+estrutra:2:instalações
+tortinhas:2:comida
+transporte publico:2:zona
+acomodacoes:2:instalações
+eléctricas:2:outros
+coelho:2:comida
+padarias próximas:2:zona|comida
+computador:2:equipamento
+confeitarias:2:comida|zona
+multicondominio:2:instalações
+estacionamento incluso:2:instalações
+confeção:2:outros|comida
+portinha:2:equipamento
+decoração interior:2:decoração
+fncionários:2:serviço
+ambiete:2:zona
+tela plana:2:equipamento
+toalhinhas:2:equipamento
+antena:2:equipamento
+pequeno-almoco:2:comida
+lcd:2:equipamento
+night:2:outros
+espacos:2:instalações|zona
+praças:2:zona
+edificação:2:outros
+operadoras:2:outros|zona
+"limpeza diária":2:serviço
+manteiga:2:comida
+estacionameto:2:instalações|zona
+área envolvente:2:zona
+bolo inglês:2:comida
+garrafa d´água:2:comida
+cama ortopédica:2:equipamento
+decoraçao:2:decoração
+atedimento:2:serviço
+risotto:2:comida
+sonorização:2:instalações
+mulher:2:outros
+relações públicas:2:outros|serviço
+recepcinista:2:serviço
+variedade fruta:2:comida
+iluminação nocturna:2:instalações|equipamento
+pães doces:2:comida
+cozinha no restaurante:2:instalações|comida
+ladeira:2:outros|equipamento
+galerie:2:instalações|zona
+uva:2:comida
+acessos:2:instalações
+vista aérea:2:zona
+fisherman's:2:outros
+pequeno letreiro:2:equipamento
+euros:2:preço
+Área:2:zona
+predio principal:2:instalações
+operadores:2:outros
+modernização:2:instalações
+buffet qualidade/preço:2:preço|comida
+assentos:2:instalações|equipamento
+funcionalidades:2:instalações|outros
+apartamento térreo:2:instalações
+hotelzinho:2:hotel
+estacionamento publico:2:instalações
+menus:2:comida
+cama king:2:equipamento
+arqutetura:2:instalações
+localizaça:2:localização
+temperature:2:zona
+rapazes:2:outros
+atendimento na recepção:2:serviço
+ambientes externo:2:zona
+iluminacao:2:instalações
+banhos:2:outros
+tarde petiscos:2:comida
+Água:2:comida|outros
+saquinho natural:2:outros
+leite simples:2:comida
+look:2:decoração
+cave:2:instalações
+torneira:2:equipamento
+economia:2:outros
+ementas:2:comida
+bloco:2:instalações|outros
+quarto e banheiro:2:instalações
+chaminé:2:equipamento
+espaço interior:2:instalações
+spa club:2:instalações
+balcão:2:instalações
+cama tamanho:2:equipamento
+relacionamento:2:serviço|outros
+convívio:2:outros|serviço
+capacitação:2:outros
+revestimento:2:instalações
+localidade:2:localização|zona
+tour privado:2:zona
+espaço físico:2:instalações
+áreas públicas:2:zona
+designer:2:decoração
+orquestra:2:equipamento|zona
+adegas:2:instalações|zona
+recanto:2:outros
+boutiques:2:zona|instalações
+degustação:2:comida
+estruturas:2:instalações
+visita guiada:2:zona
+estacionamento público:2:instalações|zona
+áreas internas:2:instalações
+colheres:2:equipamento|comida
+letreiro:2:equipamento
+codomínio:2:instalações
+iluminação natural:2:instalações
+bacalhau alagadeiro:2:comida
+linguiça:2:comida
+representante:2:serviço|outros
+muro:2:equipamento
+barzinho:2:instalações
+cortinado:2:equipamento
+home:2:instalações
+acomaodação:2:instalações
+hóspedesos:2:outros
+estofados:2:comida
+canteiros:2:instalações
+academia profissional:2:instalações
+embalagens:2:equipamento
+tabaco:2:comida
+tábuas:2:equipamento
+faixada:2:instalações
+conduta:2:serviço
+suíte júnior:2:instalações
+hóteis:2:hotel
+sala recreativa:2:instalações
+chaleira elétrica:2:comida|equipamento
+iogurtes:2:comida
+retiro:2:outros
+pintura:2:decoração
+equipes:2:serviço|outros
+massa:2:comida
+relação custo benefício:2:preço
+organizacao:2:serviço
+tecnologia:2:equipamento|instalações
+industria hoteleira:2:hotel|comida
+terraços:2:instalações
+tetos:2:instalações
+contexto histórico:2:história
+oferta gastronómica:2:comida
+apreciação global:2:outros
+feiras:2:zona|outros
+instituto:2:instalações|zona
+galeries:2:instalações|zona
+hotela:2:hotel
+arbustos:2:zona
+pack romantico:2:outros
+temperatura ambiente:2:zona|equipamento|instalações
+normas internas:2:serviço
+cheesecake:2:comida
+normas:2:serviço
+empregada:2:serviço
+factura:2:preço
+terapeuta:2:serviço
+room serviço:2:serviço
+banheiro azulejos:2:equipamento
+ar condicionador:2:equipamento
+loiças:2:equipamento|comida
+estacionamentos:2:instalações
+cabana:2:instalações
+proposta arquitetónica:2:instalações
+atenciosidade:2:serviço
+ruido:2:instalações|zona
+instalação sanitária:2:instalações|equipamento
+mantas:2:equipamento
+noite portuguesa:2:outros
+palmeira:2:zona|outros
+escovas:2:equipamento
+portadas:2:equipamento
+licores:2:comida
+patos:2:comida|zona
+enchidoso:2:comida
+zona florestal:2:zona
+saladas:2:comida
+grelha:2:comida|equipamento
+formações:2:outros
+falésias:2:zona
+espaços verdes:2:zona
+almofadas:2:equipamento
+bar lanchonete:2:comida|instalações
+sexo:2:outros
+edifícios:2:instalações
+ruídos externos:2:instalações|zona
+acesso privativo:2:instalações
+comportamento:2:serviço|outros
+entrada+prato principal+vinho:2:comida
+digestão:2:comida
+amabilidade:2:serviço
+equipas:2:serviço
+sáuna:2:instalações
+paisagem envolvente:2:zona
+propriedade:2:instalações
+represa:2:zona
+cabeceira:2:equipamento
+estacionamento privado:2:instalações
+centro historico:2:história
+tv`s:2:equipamento
+área exterior:2:zona
+boias:2:equipamento
+estilo português:2:decoração|outros
+piscinas exteriores:2:instalações
+dormitórios:2:instalações
+atrações disponíveis:2:zona
+tectos:2:instalações
+qualidades naturais:2:zona
+localuzaçao:2:localização
+responsáveis:2:serviço
+comida caseira:2:comida
+serviço gourmet:2:serviço|comida
+panquecas:2:comida
+entidades:2:serviço|outros
+guloseimas:2:comida
+montes:2:zona|outros
+ambientes externos:2:zona
+suporte:2:serviço|equipamento
+tapiocas:2:comida
+parque privativo:2:instalações
+estação metro:2:zona
+estação de metro:2:zona
+piscininha:2:instalações
+lavagem:2:serviço|outros
+casinhas:2:instalações
+piscina interna:2:instalações
+guest relations:2:serviço
+cômoda:2:equipamento
+atrações turísticas:2:zona
+originalidade:2:decoração|outros
+piscinas interior:2:instalações
+dormitorios:2:instalações
+acessórios:2:equipamento
+toalheiro:2:equipamento
+area envolvente:2:localização|zona
+espaço envolvente:2:localização|zona
+jardim medieval:2:zona
+sabonete líquido:2:equipamento
+refrigerante:2:comida
+município:2:zona
+comodidades quarto:2:instalações
+cozinga:2:instalações
+horta:2:instalações|comida
+doces conventuais:2:comida
+apartamento tipo:2:instalações
+experiencia degustação:2:comida
+roupeiros:2:equipamento
+animação noturna:2:serviço|outros
+quarto interior:2:instalações
+consciência ambiental:2:outros
+registo:2:outros
+zonas comuns:2:zona
+guias:2:outros
+jardinagem:2:outros
+fatia:2:comida
+ajulejos:2:equipamento
+duplex:2:instalações
+servicos:2:serviço
+produtos de higiene:2:equipamento
+chás ingleses:2:comida
+cozinheiros:2:comida|serviço
+comidas típicas:2:comida|zona
+funcionarias:2:serviço
+bailados:2:zona|outros
+hidromassagem:2:serviço
+bife:2:comida
+património:2:zona
+bares restaurantes:2:comida|instalações
+liderança:2:outros|serviço
+jazz:2:outros|zona
+psicina:2:instalações
+pacote noite:2:outros
+tortas:2:comida
+camarão:2:comida
+polvo:2:comida
+papel higiénico:2:equipamento
+rede wi-fi:2:equipamento
+tecnologias:2:equipamento|instalações
+vinhos portugueses:2:comida
+espaço natural:2:zona|localização
+aloxamento:2:instalações
+durmida:2:instalações
+vinho tinto:2:comida
+áreas externas:2:zona|localização
+pequenos almoços:2:comida
+dança:2:outros
+docinhos:2:comida
+almofada:2:equipamento
+localizaçào:2:localização
+cachoeira:2:zona
+tipologia:2:zona
+descontos:2:preço
+instituto superior:2:zona
+bamheiro:2:equipamento
+relações:2:outros
+sorvetes:2:comida
+barzinho no átrio:2:instalações|comida
+estendal:2:equipamento
+frigo:2:equipamento|comida
+atracoes:2:zona
+canal infantil:2:equipamento
+bufe:2:comida|instalações
+área externa:2:zona|localização
+isolamento sonoro:2:instalações
+zona social:2:zona
+atendimentos:2:serviço
+cave real:2:instalações
+quartos inferiores:2:instalações
+mobilias:2:equipamento
+padarias:2:instalações|zona|comida
+apetrechos:2:equipamento
+áreas verdes:2:zona
+manutençãozinha:2:serviço
+"profissionalismo":2:serviço
+escadaria interna:2:instalações
+confecção:2:comida
+tortinhas doces:2:comida
+unidades hoteleiras:2:instalações|comida|hotel
+roteiros:2:zona
+sofá cama:2:equipamento
+sensações:2:outros
+placa enorme no banheiro:2:equipamento
+qualidade serviço:2:serviço
+festas:2:zona
+gruta:2:zona
+apa:2:outros
+ítens:2:equipamento
+monumento nacional:2:zona
+relaçao qualidade:2:outros
+oferta hoteleira:2:comida|hotel
+escadarias:2:instalações
+refeição ligeira:2:comida
+limpeza diária:2:serviço
+cobranças:2:preço
+cais:2:zona
+providências:2:outros
+cêrâmicas:2:equipamento
+pousadinha:2:instalações
+estádia:2:outros
+televisões:2:equipamento
+bacia:2:equipamento
+viaduto:2:zona
+músicas:2:outros
+qualidade preço:2:preço
+nível superior:2:instalações
+certificação:2:outros
+sabores:2:comida
+pão doce:2:comida
+ferragens:2:outros
+largura:2:instalações
+rececionistas:2:serviço
+mesinhas:2:equipamento
+atendimento direto:2:serviço
+almoço tipico:1:comida|zona
+saloes:1:instalações
+vista noturna:1:zona
+sede:1:instalações|zona|outros
+bairros:1:zona
+cozinha portuguesa:1:comida
+anfiteatro:1:instalações|zona
+toilette:1:instalações
+bolinho:1:comida
+piscinae:1:instalações
+pôr-do-sol:1:zona|outros
+bolacha:1:comida
+cultura medieval:1:zona
+doces típicos:1:comida|zona
+pqueno almoço:1:comida
+internet wífi:1:equipamento
+funcionamento:1:outros
+nivél:1:outros
+bifes:1:comida
+twin:1:instalações|equipamento
+limpeza diaria:1:serviço
+choveiro:1:equipamento
+áreas envolventes:1:localização|zona
+polo:1:outros
+moagens:1:outros
+tijolos:1:equipamento
+relacao custo:1:preço
+portaria:1:instalações
+estagiária:1:serviço|outros
+vasos:1:equipamento
+serviço wi-fi:1:serviço|equipamento
+artes:1:decoração|outros
+pudim:1:comida
+rosquinhas:1:comida
+senhoras:1:serviço|outros
+aspiração:1:outros
+lugarzinho:1:zona
+lojinha:1:zona
+rejuntes:1:outros
+chao:1:instalações
+piscian:1:instalações
+varandas:1:instalações
+chiclete:1:comida
+protecções:1:instalações
+pequeno alomoço:1:comida
+profissional acolhimento:1:serviço
+maçã:1:comida
+estaçao:1:zona
+cozinha no restaurante:1:instalações|comida
+sanduicheira:1:instalações|comida
+presteza:1:serviço
+parque estacionamento:1:instalações
+acessos ponto:1:instalações|zona
+calçada:1:instalações
+vasta rede hoteleira na capital:1:hotel|comida
+directora:1:serviço|outros
+cama tipo:1:equipamento
+café-da-manhã:1:comida
+quarto família:1:instalações
+dormidas:1:instalações
+adecoração:1:decoração
+estancia:1:outros
+tradicional breakfast:1:comida|história
+moça:1:outros
+residência:1:instalações
+refeitório:1:instalações
+entupimento:1:outros
+mateiga:1:comida
+boiler:1:outros
+catedral:1:zona|instalações
+proprietários:1:outros|serviço
+aquecedor:1:equipamento
+festivais:1:zona
+beliche:1:equipamento
+gramado:1:outros
+banheiras:1:equipamento
+vasta rede hoteleira:1:comida|hotel
+localização relação qualidade:1:localização
+chocolate quente:1:comida
+banheiro tamanho:1:equipamento
+bordados:1:equipamento|outros
+elementos:1:outros
+investimento:1:preço
+sanduiche:1:comida
+usina:1:outros
+intérpretes:1:outros
+restaurante bar:1:instalações|comida
+hospedagens:1:outros
+carpet:1:equipamento
+excursão:1:zona|outros
+pãezinhos:1:comida
+sauna piscina:1:instalações
+prainha:1:zona
+pequeno almoçoo:1:comida
+bairrada:1:comida|outros|zona
+vistas paisagistas:1:zona
+sanduíches:1:comida
+chefes:1:comida|serviço
+relaçao preço:1:preço
+acabamento:1:instalações|decoração
+trigo:1:comida
+café nespresso:1:comida|equipamento
+almoço bufett:1:comida|instalações
+entretenimento:1:serviço|outros
+portÃo:1:equipamento
+conduções:1:outros
+balneários:1:instalações
+zona central:1:instalações|zona
+arquitetura exterior:1:instalações
+telefonista:1:serviço
+localização quarto:1:instalações|localização
+território:1:localização
+salada:1:comida
+frigorífico:1:comida|equipamento
+piscian exterior:1:instalações
+zona comercial:1:zona
+frango:1:comida
+noitinha:1:outros
+zelo:1:outros
+rede turistica vila:1:zona
+bebida internacionais:1:comida
+mobiliario:1:equipamento
+palacio:1:instalações
+zonas envolventes:1:zona
+acolhedimento:1:serviço
+opções tradicionais:1:outros
+anfitriões:1:serviço
+quarto tamanho:1:instalações
+aparelho sanitário:1:equipamento
+principais centros:1:zona
+ponto central:1:zona
+massage:1:serviço
+exteriores:1:zona|instalações
+artes decorativas:1:decoração
+ribeira:1:zona
+mercados:1:zona
+sabonetes:1:equipamento
+quadro:1:equipamento
+época baixa:1:outros
+sound:1:equipamento
+vending:1:serviço
+serviço prestado:1:serviço
+respectivas praias:1:zona
+fiambre:1:comida
+varandinha:1:instalações
+anexo:1:instalações
+sesta:1:outros
+atendimento no restaurante:1:serviço|comida
+stadia:1:outros
+precos:1:preço
+orçamento:1:preço
+comboio turístico:1:zona
+àrea:1:zona
+ônibus turísticos:1:zona
+edíficio:1:instalações
+internet wifi:1:equipamento
+estacionamento no centro:1:instalações
+madeiras:1:outros
+areia:1:zona|outros
+azulejo:1:equipamento
+preservação:1:instalações
+lenha:1:outros|equipamento
+parques:1:zona
+restaurante giratório:1:instalações|comida
+litoral:1:zona
+parques públicos:1:zona
+quarto superior:1:instalações
+lobby restaurante:1:instalações|comida
+arrumação local:1:serviço
+senhor recepcionista:1:serviço
+shampoo:1:equipamento
+melhoramentos:1:instalações
+alomoço:1:comida
+areal:1:outros|zona
+estilo economize:1:outros
+luxo pelo preço:1:preço
+qualidade/preço:1:preço
+acesso quartos:1:instalações
+painéis:1:equipamento
+dimensão:1:instalações
+entradas:1:instalações|comida
+vedacao:1:instalações
+tecto:1:instalações
+jato d'água:1:instalações|equipamento
+cardosas:1:outros
+convivencia:1:serviço|outros
+povo:1:zona
+telhado:1:instalações
+pato:1:comida
+interior instalações:1:instalações
+ambientes sociais:1:zona
+gerentes:1:serviço
+música-supermercado:1:zona|instalações
+quarto triplo:1:instalações
+croissant:1:comida
+email:1:outros
+panorâmica:1:outros
+centro histórico:1:história
+própria hospedagem:1:outros
+varandas:1:instalações
+operadora:1:outros
+pombos:1:comida|zona
+lago:1:zona
+precinho:1:preço
+edredons:1:equipamento
+fauna:1:zona
+wífi:1:equipamento
+pequeno hotel:1:hotel
+falta música:1:outros
+relacao preco:1:preço
+room-service:1:serviço
+varalzinho:1:instalações
+quintas:1:instalações|outros|zona
+refúgio:1:outros
+cama inteira:1:equipamento
+higiene na piscina:1:serviço
+ambiente interno:1:instalações|outros
+cômodos:1:equipamento|instalações
+sucos naturais:1:comida
+hotel na area:1:zona|hotel
+polo gastronômico:1:comida|instalações|zona
+refrigerantes:1:comida
+laterais:1:instalações|outros
+manutenções:1:serviço|outros
+pensao:1:instalações
+varios ambientes sociais:1:zona
+tapioca:1:comida
+fucionários:1:serviço
+noite na piscina:1:outros
+donos:1:serviço|outros
+grama:1:outros
+art:1:decoração
+frigo bar:1:comida|equipamento
+pratos típicos:1:comida|zona
+leitor:1:outros
+assinatura:1:outros
+rede hoteleira:1:comida|zona|hotel
+market:1:zona
+quarto duplex:1:instalações
+apple:1:comida
+taxa extra:1:preço
+encanamento:1:serviço|outros
+referências:1:outros
+locomoçao:1:zona
+view:1:zona
+mini bar:1:comida|instalações
+praiabuffet:1:comida|zona
+discoteca:1:instalações|zona
+condições quartos:1:instalações
+dispositivo:1:equipamento
+serventes:1:serviço
+cheiros:1:zona
+volumes:1:outros|equipamento
+serviço de bar:1:comida|serviço
+jantamos:1:comida
+peq almoco:1:comida
+peq almoço:1:comida
+casa de banho:1:instalações
+custo beneficio:1:preço
+cafe da manha:1:comida
+check out:1:outros
+check in:1:outros
+limpeza do quarto:1:serviço
+agua da piscina:1:equipamento
+aeroporto:1:zona|localização
+sinalizacao:1:outros
+aparelhagem de som:1:equipamento
+metro:1:zona
+cinema:1:zona|instalações
+harmonia:1:outros
+descansar:1:outros
+estacoes do metro:1:zona
+dias:1:outros
+barulho:1:instalações|serviço
+afluência:1:outros
+modo:1:serviço|outros
+relação de custo e benefícios:1:preço
+estalagem:1:instalações
+conforto:1:instalações|serviço
+relação qualidade-preço:1:preço
+pneus:1:equipamento

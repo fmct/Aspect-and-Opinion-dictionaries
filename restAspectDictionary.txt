@@ -1,0 +1,1190 @@
+comida:1671:comida
+atendimento:1355:serviço
+ambiente:1218:zona|outros
+restaurante:1066:comida
+serviço:767:serviço
+pratos:460:comida
+preço:452:preço
+decoração:331:decoração
+qualidade:325:outros
+local:313:zona|localização
+prato:291:comida
+lugar:232:zona
+cozinha:211:comida|instalações
+peixe:209:comida
+menu:207:comida
+sobremesas:199:comida
+casa:196:instalações
+sobremesa:191:comida
+vinho:184:bebida
+refeição:183:comida
+chef:174:serviço|comida
+jantar:174:comida
+vinhos:162:bebida
+preços:161:preço
+staff:161:serviço
+vista:149:zona
+sabor:144:comida|bebida
+entradas:136:comida
+sala:126:comida
+mesa:123:equipamento
+ponto:110:zona|localização
+pessoal:110:serviço
+restaurantes:110:comida
+sabores:109:comida|bebida
+café:103:bebida|instalações
+frutos:102:comida
+empregados:100:serviço
+conceito:100:outros
+molho:96:comida
+apresentação:90:decoração
+carne:90:comida
+produtos:90:comida
+relação qualidade:89:outros
+nota:87:outros
+almoço:87:comida
+marisco:86:comida
+forma:85:comida|instalações
+pão:85:comida
+posta:83:comida
+música:80:equipamento
+visita:78:outros
+cerveja:76:bebida
+porco:76:comida
+bacalhau:72:comida
+leite:71:bebida
+noite:71:outros
+chefe:70:serviço
+francesinha:67:comida
+funcionários:65:serviço
+sushi:63:comida
+sítio:63:zona
+dia:61:outros
+arroz:60:comida
+entrada:60:comida|instalações
+tudo:60:outros
+pessoas:58:serviço|outros
+recepção:57:serviço
+zona:57:zona
+localização:57:localização
+estacionamento:56:instalações
+massas:56:comida
+chá:55:bebida
+espumante:54:bebida
+massa:54:comida
+relação preço:54:preço
+equipa:53:serviço
+reserva:53:outros
+batata:53:comida
+opção:52:outros
+sitio:51:zona
+costa:51:zona
+cliente:50:outros
+chocolate:50:comida
+surpresa:50:outros
+garrafeira:49:bebida|equipamento
+pontos:48:outros
+opções:48:comida|outros
+bairro:46:zona
+queijo:45:comida
+cervejas:45:bebida
+água:45:bebida
+petiscos:45:comida
+ementa:44:comida
+doses:43:comida
+gastronomia:41:comida
+tempo:40:zona|outros
+experiencia:40:outros
+carta:40:outros
+mesas:40:equipamento
+refeições:40:comida
+vitela:39:comida
+pizza:39:comida
+momento:38:outros
+sopa:38:comida
+sinfonia:37:outros
+confecção:37:comida|serviço
+gente:36:serviço|outros
+bife:36:comida
+polvo:35:comida
+ovos:35:comida
+aspecto:34:decoração|comida
+variedade:34:comida
+viagem:34:outros
+wine:33:bebida
+custo:33:preço
+tomate:32:comida
+ingredientes:32:comida
+rua:31:localização|zona
+culinária:30:comida
+hambúrguer:29:comida
+bebida:29:bebida
+sangria:28:bebida
+experiências:28:outros
+paisagem:27:zona
+batatas:27:comida
+gambas:27:comida
+empregado:27:serviço
+ar:27:zona
+semana:27:outros
+hambúrgueres:27:comida
+camarão:26:comida
+bebidas:26:bebida
+grupo:26:serviço|outros
+experiência gastronómica:25:comida
+salas:25:instalações
+senhor:25:serviço|outros
+bolo:25:comida
+dona:25:serviço
+cereja:25:comida
+tostas:24:comida
+salada:24:comida
+cardápio:24:comida|bebida
+oferta:24:outros
+conta:24:preço
+escolha:23:outros
+degustação:23:comida
+dose:23:comida
+estabelecimento:23:instalações
+combinações:23:outros
+trip:23:outros
+disponibilidade:22:serviço
+terra:22:zona
+luz:22:instalações
+pizzas:22:comida
+centro:22:zona|instalações
+pessoa:21:serviço|outros
+colaboradores:21:serviço
+bolos:21:comida
+equipe:21:serviço
+molhos:21:comida
+minas:20:zona
+estilo:20:decoração
+tapas:20:comida
+robalo:20:comida
+pasta:20:comida
+comida italiana:19:comida
+prato principal:19:comida
+acolhimento:19:serviço
+cogumelos:19:comida
+doces:19:comida
+comidas:19:comida
+edifício:18:instalações
+presunto:18:comida
+tempero:18:comida
+atmosfera:18:zona|outros
+lulas:17:comida
+cantinho:17:instalações
+espaco:17:instalações
+pastas:17:comida
+francesinhas:17:comida
+aquário:16:equipamento
+peixes:16:comida
+resto:16:outros
+música ambiente:16:equipamento
+espaços:16:instalações
+servico:15:serviço
+feijão:15:comida
+cozinha tradicional:15:comida|história
+valor:15:preço
+parada:15:outros
+modo:15:outros
+servido:15:serviço
+bar:15:bebida|instalações
+momentos:15:outros
+esplanada:15:instalações
+taberna:15:instalações
+adega:14:instalações
+mariscos:14:comida
+parque:14:instalações|zona
+scones:14:comida
+confeção:14:comida
+acompanhamento:14:comida
+comida tradicional:13:comida|história
+broa:13:comida
+jardim:13:zona
+leitão:13:comida
+porções:13:comida|instalações
+cidade:13:zona
+mar:13:zona
+salsa:13:comida
+chalet:13:instalações
+tosta:13:comida
+queijos:13:comida
+preco:13:preço
+pormenores:13:outros
+lanche:12:comida
+experiência gastronômica:12:comida
+camarões:12:comida
+sítios:12:zona
+doce:12:comida
+aquários:12:equipamento
+pratos principais:12:comida
+vinho branco:12:bebida
+piso:12:instalações
+instalações:12:instalações
+carnes:12:comida
+profissionalismo:12:serviço
+musica:12:equipamento
+bolacha:11:comida
+hamburguer:11:comida
+produto:11:comida|outros
+clima:11:zona
+cheiro:11:zona
+gostos:11:comida|outros
+passeio:11:zona
+frutas:11:comida
+forno:11:equipamento
+avaliações:11:outros
+férias:11:outros
+iguarias:11:comida
+cerveja artesanal:10:bebida
+especiarias:10:comida
+sal:10:comida
+estação:10:zona
+região:10:zona
+borrego:10:comida
+manteiga:10:comida
+tinto:10:bebida
+paladar:10:comida
+trufa:10:comida
+pudim:10:comida
+vistas:10:zona
+dias:10:outros
+receção:10:serviço
+relação qualidade preço:10:preço
+brunch:10:comida|bebida
+prego:10:comida
+proprietários:10:serviço
+avaliação:10:outros
+frutos vermelhos:10:comida
+aperitivos:10:comida
+azeite:10:comida
+pátio:10:instalações
+comida típica:9:comida
+tratamento:9:serviço
+garçom:9:serviço
+colaborador:9:serviço
+tradições:9:outros
+alho:9:comida
+maçã:9:comida
+migas:9:comida
+relação preço qualidade:9:preço
+caril:9:comida
+menus:9:comida|bebida
+frango:9:comida
+lareira:9:equipamento
+coca:9:bebida
+minutos:9:outros
+saladas:9:comida
+dono:9:serviço
+fruta:9:comida
+kukhura:9:comida
+alheira:9:comida
+cabrito:9:comida
+gin:9:bebida
+copo:9:bebida|equipamento
+temperatura:9:zona|instalações
+sommelier:8:bebida|serviço
+manteigas:8:comida
+manga:8:comida
+chouriço:8:comida
+garçon:8:serviço
+artesanato:8:instalações
+termos:8:outros
+prédio:8:instalações
+prova:8:outros
+textura:8:comida|decoração
+cultura:8:zona
+chás:8:bebida
+cima:8:zona
+dugdha:8:comida
+amêijoas:8:comida
+carro:8:outros
+pao:8:comida
+porta:8:equipamento
+trufas:8:comida
+pimentos:8:comida
+arquitectura:8:instalações
+iluminação:8:instalações
+regiões:8:zona
+garçons:8:serviço
+legumes:8:comida
+repasto:8:comida
+donos:8:serviço
+vinagre:8:comida
+classificação:8:outros
+arquitetura:8:instalações
+época:7:outros
+tiramisu:7:comida
+capacidade:7:outros|instalações
+acompanhamentos:7:comida
+lugares:7:zona|equipamento
+gelado:7:comida
+espargos:7:comida
+salsa rosa:7:comida
+jantares:7:comida
+gelados:7:comida
+restante:7:outros
+restaurante típico:7:comida
+risoto:7:comida
+feijoada:7:comida
+par:7:outros
+choco:7:comida
+altura:7:outros|instalações
+paladares:7:outros|comida
+ba wine:7:bebida
+scone:7:comida
+sumos:7:bebida
+couve:7:comida
+preço qualidade:7:preço
+leite creme:7:comida
+creme:7:comida
+conhecimento:7:outros|serviço
+caramelo:6:comida
+temperos:6:comida
+travessa:6:equipamento|comida
+comida portuguesa:6:comida
+sol:6:zona
+escolhas:6:outros
+tagliatelle:6:comida
+euros:6:preço
+salmão:6:comida
+produtos regionais:6:comida
+gamba:6:comida
+terraço:6:instalações
+comidinha:6:comida
+batata doce:6:comida
+atum:6:comida
+conceito food:6:comida
+sugestões:6:outros
+empratamento:6:serviço|comida
+dedicação:6:serviço
+acesso:6:localização|zona
+cozinha italiana:6:comida
+cheese:6:comida
+coco:6:comida
+hamburger:6:comida
+tartufo:6:comida
+porto:6:zona
+aveiro:6:zona
+alternativa:6:outros
+aguardente:6:bebida
+casas:6:zona
+pato:6:comida
+bisteca:6:comida
+estrada:6:zona
+gestão:6:serviço
+copos:6:bebida|equipamento
+vinho verde:6:bebida
+produção:6:serviço
+sugestão:6:outros
+cunho:6:equipamento
+limão:6:comida
+relação qualidade-preço:6:preço
+almoçamos:6:comida
+peça:5:equipamento
+seleção:5:outros
+área:5:zona
+sobremesas caseiras:5:comida|zona
+som:5:equipamento
+compotas:5:comida
+chocolates:5:comida
+tapa:5:comida
+caldeirada:5:comida
+luso:5:zona|bebida
+detalhes:5:outros
+sintra:5:zona
+ambientes:5:zona
+elementos:5:serviço
+aspeto:5:decoração
+base:5:comida|outros
+paredes:5:instalações
+frente:5:instalações
+cheesecake:5:comida
+laranja:5:comida
+condimentos:5:comida
+vila:5:zona
+chardonnay:5:bebida
+senhora:5:serviço
+feira:5:zona
+comentários:5:outros
+dinheiro:5:preço
+aromas:5:comida|zona
+casinha:5:instalações
+moscatel:5:bebida
+sopas:5:comida
+ameijoas:5:comida
+canto:5:instalações|outros
+itens:5:equipamento
+movimento:5:zona
+enchidos:5:comida
+restaurante italiano:5:comida
+clube:5:outros
+mercado:5:zona
+contexto:5:outros
+regiao:5:zona
+petisco:5:comida
+limoncello:5:bebida
+hotel:5:hotel
+douro:5:zona
+traça:5:instalações
+pêra:5:comida
+aconselhamento:5:serviço
+estradas:5:zona
+hamburgueria:5:comida
+críticas:4:outros
+garçonete:4:serviço
+couvert:4:equipamento
+anfitrião:4:serviço
+pimento:4:comida
+menú:4:comida|bebida
+comidinhas:4:comida
+iogurte:4:comida
+sumo:4:bebida
+horário:4:outros
+batata frita:4:comida
+mousse:4:comida
+aguardente velha:4:bebida
+funcionárias:4:serviço
+roupagem:4:serviço
+leitao:4:comida
+crocância:4:comida
+lombo:4:comida
+turismo:4:zona
+carne arouquesa:4:comida
+comida nepalesa:4:comida
+wifi:4:internet
+peixinho:4:comida
+hamburguers:4:comida
+saída:4:instalações
+bolinhos:4:comida
+produtores:4:serviço
+cheff:4:serviço|comida
+hamburgers:4:comida
+food:4:comida
+lasanhas:4:comida
+montra:4:outros
+cervejas artesanais:4:bebida
+gama:4:outros
+ementas:4:comida
+paisagem natural:4:zona
+chamuças:4:comida
+cozinhas:4:zona|comida
+paragens:4:zona
+nata:4:comida
+cantina:4:comida|instalações
+eventos:4:outros
+batatinhas:4:comida
+culinária local:4:comida|zona
+cartas:4:outros
+pães:4:comida
+geral:4:outros
+funcionária:4:serviço
+relação preço-qualidade:4:preço
+morcela:4:comida
+tábua:4:equipamento
+touriga:4:comida
+bares:4:bebida|zona
+lasanha:4:comida
+wi-fi:4:internet
+sashimi:4:comida
+prato típico:4:comida|zona
+precos:4:preço
+restaurant:4:comida
+musica ambiente:4:equipamento
+dimensão:4:instalações
+limpeza:4:serviço
+tamboril:4:comida
+pata:4:comida
+edificio:4:instalações
+reservas:4:outros
+proprietário:4:serviço
+panna cotta:4:comida
+posta arouquense:4:comida
+tarte:4:comida
+ravioli:4:comida
+loja:4:zona
+azulejos:4:decoração|equipamento
+experiência gastronomica:4:comida
+talheres:4:comida|equipamento
+festa:4:zona
+chocolate quente:4:bebida
+agua:4:bebida
+malagueta:4:comida
+rede:4:equipamento
+receita:4:comida
+enguias:4:comida
+massa fresca:4:comida
+espeço:4:instalações
+localidade:3:zona
+estrutura:3:instalações
+vinho italiano:3:bebida
+transportes:3:zona
+museu:3:zona
+internet:3:internet
+champanhe:3:bebida
+roquefort:3:comida
+lanches:3:comida
+acepipe:3:comida
+ofertas:3:outros
+tv:3:equipamento
+milho:3:comida
+spaghetti:3:comida
+festival:3:zona
+tasca:3:zona|instalações
+sito:3:zona
+grão:3:comida
+limocello:3:bebida
+jantamos:3:comida
+moça:3:serviço
+espumante bruto:3:bebida
+alimentação:3:comida
+novilho:3:comida
+raia:3:comida
+orgasmo:3:outros
+pastelarias:3:comida|zona|instalações
+lulinhas:3:comida
+grelhado:3:comida
+arrroz:3:comida
+cafés:3:bebida
+anfitriã:3:serviço
+bruschetas:3:comida
+costeleta:3:comida
+peixe fresco:3:comida
+país:3:zona
+hoummous:3:comida
+doçaria:3:comida
+decoraçao:3:decoração
+avenidas:3:zona
+menu degustação:3:comida
+risotto:3:comida
+jhinge:3:comida
+amêndoas:3:comida
+recanto:3:zona
+disponbibilidade:3:serviço
+farinha:3:comida
+cadeiras:3:equipamento
+batatinha:3:comida
+estado:3:instalações
+peixeo:3:comida
+ingrediente:3:comida
+spaguetti:3:comida
+sobra:3:comida
+terrinha:3:zona
+vinhas:3:zona|bebida
+salsichas:3:comida
+atendente:3:serviço
+funcionário:3:serviço
+comida tipica:3:comida|zona
+salgados:3:comida
+janta:3:comida
+comida vegetariana:3:comida
+estaminé:3:instalações
+sucos:3:bebida
+empregada:3:serviço
+sound:3:equipamento
+rodelas:3:comida
+cenoura:3:comida
+sangria branca:3:bebida
+artigos:3:outros
+especialidades:3:comida
+naco:3:comida
+hospitalidade:3:serviço
+azeitonas:3:comida
+portugal:3:zona
+vinho tinto:3:bebida
+palacete:3:instalações
+localizado:3:localização
+garcom:3:serviço
+casarão:3:instalações
+comida caseira:3:comida|zona
+praia:3:zona
+receitas:3:comida
+sala interior:3:instalações
+tesouro:3:outros
+garrafa:3:bebida
+ruas:3:zona
+presuntos:3:comida
+almoços:3:comida
+vallet:3:serviço
+notas:3:outros
+tandoori:3:comida
+traços:3:outros
+técnica:3:serviço
+dicas:3:outros
+sobertto:3:comida
+receçao:3:serviço
+crepe:3:comida
+reaturante:3:comida
+locais:3:zona
+molhos disponíveis:2:comida
+clientela:2:outros
+omelete:2:comida
+crítico:2:outros
+voz:2:outros
+caldo:2:comida
+relacao preco:2:preço
+champagne:2:bebida
+gamberetti:2:comida
+beringelas:2:comida
+galão:2:bebida
+pontuações:2:outros
+aspectos:2:outros
+peixo:2:comida
+pinot:2:bebida
+bolinho:2:comida
+chill:2:comida
+gamberoni:2:comida
+jardins:2:zona
+atendimentos:2:serviço
+comida italiano:2:comida|zona
+gelados artesanais:2:comida
+mochi:2:comida
+panorama:2:outros
+risottos:2:comida
+visual:2:decoração
+ameijoa:2:comida
+iguaria:2:comida
+suco:2:bebida
+carne arouquense:2:comida|zona
+confeccionamento:2:comida
+grãos:2:comida
+buffet:2:comida|serviço
+tagliatelle alla:2:comida
+encontros temáticos:2:outros
+nacos:2:comida
+sardinhas:2:comida
+licores:2:bebida
+cebola:2:comida
+hamburger vegetariano:2:comida
+floresta:2:zona
+funcionaria:2:serviço
+gastronomia italiana:2:comida|zonna
+chouriça:2:comida
+marisqueira:2:comida
+fast food:2:comida
+vegetais:2:comida
+recheio:2:comida
+rigattone:2:comida
+concelhos:2:zona
+lagartichas:2:outros|comida
+sabor tradicional:2:comida|história
+rabanadas:2:comida
+calzone:2:comida
+degustacao:2:comida
+vitela alla:2:comida
+pastelaria:2:comida|zona|instalações
+menu executive:2:comida|bebida
+recomendações:2:outros
+menu cozinha:2:comida
+bolinhas:2:comida
+escadas:2:instalações
+pimenta:2:comida
+euro:2:preço
+bancos:2:equipamento
+aroma:2:zona|comida
+decoraçáo:2:decoração
+lima:2:comida
+ambiente envolvente:2:zona
+corvina:2:comida
+multibanco:2:zona
+condimento:2:comida
+gastronómica:2:comida
+pão integral:2:comida
+produto final:2:outros|comida|bebida
+xícara:2:bebida
+preço-qualidade:2:preço
+cobertura:2:instalações|comida
+vaca:2:comida
+filosofia:2:outros
+pratos principais preço:2:preço
+fumeiro:2:comida
+embutidos:2:comida
+religião:2:zona
+cartuxa:2:bebida
+restorante:2:comida
+filetto:2:comida
+espaços exteriores:2:zona
+pesto fatto:2:comida
+pão-de-ló:2:comida
+reataurante:2:comida
+servidores:2:serviço
+sala principal:2:instalações
+pratos tradicionais:2:comida|história
+cozinheira:2:serviço|comida
+refeitório:2:instalações|comida
+cheff's:2:serviço|comida
+assistente:2:serviço
+tartufo nero:2:comida
+sabores italianos:2:comida|zona
+montanha:2:zona
+local típico:2:zona
+hamburgaria:2:comida
+tascas:2:comida|zona|bebida
+comida fria:2:comida
+pãezinhos:2:comida
+ementa típica:2:comida|zona
+lagosta:2:comida
+rosbife:2:comida
+espaço gastronómico:2:comida
+muesli:2:comida
+restaurante familiar:2:comida
+comida vegan:2:comida
+queijo parmiggiano:2:comida
+relação qualidade preco:2:preço
+sorvete:2:comida
+investimento:2:preço|outros
+black angus:2:comida
+telefone:2:equipamento
+profisionalismo:2:serviço
+sopa spice:2:comida
+chefs:2:comida|serviço
+compotas caseiras:2:comida
+misto quente:2:comida
+culinária tradicional:2:comida|história
+refeição caseira:2:comida
+bairrada:2:zona
+jantámos:2:comida
+batata rústica:2:comida
+sanduíches:2:comida
+lembrancinhas:2:outros|zona
+esparguete:2:comida
+salgadinhos:2:comida
+mombasa:2:bebida
+copos schott:2:equipamento
+peixes frescos:2:comida
+mestre pizzeiro:2:comida|serviço
+chocos:2:comida
+churrascão:2:comida
+marisco serviço:2:comida|serviço
+vinhaça:2:bebida
+orquestra:2:outros
+espaço exterior:2:zona
+cajú:2:comida
+cafezinho:2:bebida
+refeiçã:2:comida
+mousse caseira:2:comida
+cerveja vadia:2:bebida
+vinho bridão:2:bebida
+temperatura interior:2:instalações
+roti:2:comida
+mesinha:2:equipamento
+chá fresco:2:bebida
+parede:2:instalações
+caracteristica:2:instalações|outros
+aletria:2:comida
+bar bairro:2:zona
+exposições:2:zona
+espumante extra:2:bebida
+opção menu:2:comida
+estações:2:zona
+temaki:2:comida
+culinaria:2:comida
+estrujão:2:comida
+avelã:2:comida
+queijo seco:2:comida
+freguesia:2:zona
+banheiros:2:instalações
+mercado típico:2:zona
+posta arouquesa:2:comida
+escapadela:2:outros
+variedades:2:outros
+gnocchi:2:comida
+feijões:2:comida
+gás:2:equipamento
+polme:2:comida
+relação produto preço:2:preço
+infusões:2:bebida
+ribeiro:2:zona
+paradinha:2:zona
+interior:2:instalações
+petinga:2:comida
+anfitriões:2:serviço
+aventura:2:outros
+objectos:2:equipamento
+batata doce frita:2:comida
+factura:2:preço
+cerveja especial:2:bebida
+viela:2:comida
+experiencia gastronomica:2:comida
+francesinha acompanhada:2:comida
+itens tradicionais:2:zona|equipamento
+imagem:2:decoração
+criticas:2:outros
+marisqueiras:2:comida
+pratos disponíveis:2:comida
+gelado artesanal:2:comida
+vinhedo:2:bebida
+look:2:decoração
+mega scons:2:comida
+asobremesa:2:comida
+espargos verdes:2:comida
+serviÇo:2:serviço
+cockail:2:bebida
+ovo-lacto:2:comida
+orçamento:2:preço
+espinheta:2:comida
+‘staff’:2:serviço
+bruschetta:2:comida
+páteo:2:instalações
+espelhos:2:equipamento
+comifa:2:comida
+charcutaria:2:comida|serviço
+recetores:2:serviço
+camaroes:2:comida
+hot chocolate:2:bebida
+exposição:2:zona|outros
+mimosinhos:2:serviço
+acabamentos:2:decoração|instalações
+estilo interior:2:decoração
+garcon:2:serviço
+bisteca fiorentina:2:comida
+rissoto:2:comida
+modo geral:2:outros
+vistas panorâmicas:2:zona
+carneiro:2:comida
+fórum:2:zona|outros
+loiça:2:equipamento
+manjericão:2:comida
+retaurante:2:comida
+pasta alla:2:comida
+opçao:2:outros
+champanhes:2:bebida
+qualidade gastronómica:2:comida
+comunidade tripadvisor:2:outros
+espaço “exterior”:2:instalações
+povo:2:comida
+salpicão:2:comida
+montes:2:zona
+pratos alternativos:2:comida
+patê:2:comida
+croissant:2:comida
+fulka:2:comida
+refeicao:2:comida
+capuccino:2:bebida
+hamburgueres:2:comida
+culinária italiana:2:comida|zona
+tiramissu:2:comida
+cozinha oriental:2:comida|zona
+filetto funghi:2:comida
+bistrô:2:comida
+noodles:2:comida
+proprietária:2:serviço
+curvas:2:zona
+contacto humano:2:serviço
+sapateira:2:comida
+despesa:2:preço
+lasuna:2:comida
+gerente:2:serviço
+lago:2:zona
+vinhos portugueses:2:bebida
+comida serviço:2:serviço
+chamussas:2:comida
+mexilhões:2:comida
+drinks:2:bebida
+opção gastronômica:2:comida
+estadia:2:outros
+qualificações:2:outros
+funcionarias:2:serviço
+tortas:2:comida
+beringela:2:comida
+chamuça:2:comida
+pratos vegetarianos:2:comida
+símbolos:2:zona
+acontecimento:2:outros
+educação:2:serviço
+pout-pourri:2:comida
+rosé:2:bebida
+pistachio:2:comida
+maisas:2:comida
+petiscos típicos:2:comida|zona
+design:2:decoração
+recepcão:2:serviço
+alternativas:2:outros
+oleo:2:comida
+doçaria tradicional:2:comida|história
+gerência:2:serviço
+miminho:2:serviço
+bolachinhas:2:comida
+sericaia:2:comida
+Ílhavo:2:zona
+pimentas:2:comida
+rio:2:zona
+ria:2:zona
+momento gastronómico:2:comida
+historia:2:história
+relacionamento qualidade preço:2:preço
+pateo:2:instalações
+recepcção:2:serviço
+marrocos:2:zona
+spagetti:2:comida
+camarão tigre:2:comida
+picanha:2:comida
+aquecimento:2:equipamento
+roteiros:2:zona
+restaurante japonês:2:comida
+turtulias:2:outros
+monocasta:2:bebida
+bouquet:2:outros
+experiencia gastronómica:2:comida
+sardinha:2:comida
+wine bar:2:bebida|instalações
+cerveja nepalesa:2:bebida|zona
+cheiros:2:zona
+nível na cidade:2:zona
+menu infantil:2:comida
+tema:2:decoração|outros
+ingredientes usados na comida:1:comida
+champanhe branco:1:bebida
+temas:1:outros|decoração
+bacalhau-red:1:comida
+trem:1:zona
+tipico restaurant:1:comida|zona
+cama:1:equipamento
+porco preto:1:comida
+magericão:1:comida
+arvores:1:zona
+linguagem:1:serviço
+secones xxl:1:comida
+roteiro:1:zona
+variados queijos:1:comida
+tintos:1:bebida
+pipoca:1:comida
+restaurante ambiente:1:outros|zona
+energia:1:outros
+ananás:1:comida
+nozes:1:comida
+travas:1:equipamento
+tradicional cozinha:1:comida|história
+pinturas:1:decoração
+leites:1:bebida
+refeição ambiente:1:comida|zona
+tasca tipica portuguesa:1:comida|zona|instalações
+feijáo:1:comida
+aguardentes:1:bebida
+bruscheta:1:comida
+parâmetros:1:outros
+cerveja ipa:1:bebida
+grelos:1:comida
+secones:1:comida
+restauração:1:instalações
+preço local:1:preço|localização
+coca cola:1:bebida
+caneca:1:equipamento
+funghi:1:comida
+manjares:1:comida
+bolos caseiros:1:comida
+chocolante:1:comida
+espumante tinto:1:bebida
+custoo:1:preço
+hamburguerias:1:zona
+cozinha caseira:1:comida
+saag:1:comida
+amêndoa:1:comida
+jhinge machha:1:comida
+contato:1:outros
+sopa miso:1:comida
+típico restaurante:1:comida|zona
+banho:1:outros
+mesa comida:1:comida|equipamento
+maça:1:comida
+custo lanche:1:preço|comida
+tasco:1:instalações
+prédios:1:zona
+escapadinha:1:outros
+requeijao:1:comida
+fruta fresca:1:comida
+noir touriga:1:bebida
+coffe:1:bebida
+sandes:1:comida
+típicos pratos:1:comida|zona
+taverna:1:instalações
+cumida:1:comida
+cascais:1:zona
+fachada:1:instalações
+entradas comida tradicional:1:comida|história
+sobremesas tipicas:1:comida|zona
+bar restaurante:1:bebida|comida
+centro comercial:1:zona
+vinhos locais:1:bebida|zona
+hotel chalet:1:hotel
+branco chardonnay:1:bebida
+típico molho:1:zona|comida
+cozinha vegetariana:1:comida
+gengibre:1:comida
+salsicha:1:comida
+regiao preços:1:zona|preço
+pesticos:1:comida
+rosmaninho:1:comida
+area:1:zona
+maionese:1:comida
+sobremesas típicas:1:comida|zoba
+tipico prego:1:comida|zona
+opção vegetariana:1:comida
+atendido:1:serviço
+atendida:1:serviço
+bico:1:comida
+primeiro contacto:1:serviço|outros
+risotos:1:comida
+macá:1:comida
+côco:1:comida
+chefes:1:comida|serviço
+batatas fritas:1:comida
+Água:1:bebida
+pack:1:outros
+terras:1:zona
+espadarte:1:comida
+calçadeira:1:outros|comida
+vitello alla:1:comida
+restaurante no centro:1:comida|zona
+lascas:1:outros|comida
+cogumelos porcini:1:comida
+dimensões:1:instalações
+khursani:1:comida
+broa chouriço:1:comida
+chão:1:instalações
+abobora:1:comida
+amêijoa:1:comida
+peixinhos:1:comida
+trufas pretas:1:comida
+crédito:1:preço|outros
+território:1:zona
+caracteristicas:1:outros
+rota:1:zona
+região ribeirinha:1:zona
+crutons:1:comida
+cabra:1:comida
+vitello:1:comida
+vodka:1:bebida
+ovo:1:comida
+comida tradicional italiana:1:comida|zona
+retiro:1:zona|outros
+leitão dose:1:comida
+somellier:1:serviço|bebida
+tradicional prego:1:comida|história
+pate:1:comida
+acepipes:1:comida
+cogumelos picantes:1:comida
+natas:1:comida
+camarao:1:comida
+azeite transmontano:1:comida|zona
+jarra:1:equipamento
+qualidade doses:1:comida
+boi:1:comida
+organização:1:serviço
+chardonnay italiano:1:bebida|zona
+polvo no forno:1:comida
+atendimento cozinha:1:comida|serviço
+comeram:1:comida
+rodízio:1:comida
+cordeiro:1:comida
+lotação:1:outros
+palato:1:comida
+coentros:1:comida
+esparragos:1:comida
+filetos all'aceto:1:comida
+degustações:1:comida|bebida
+noites:1:outros
+rotas:1:zona
+branco alentejano:1:bebida
+vinhedos:1:zona|bebida
+típica posta:1:comida|zona
+festas:1:zona
+sobrmesa:1:comida
+espumante rosé:1:bebida
+bar no bairro:1:zona|bebida
+andar:1:instalações
+atendentes:1:serviço
+travessas:1:equipamento|comida
+película aderente:1:equipamento
+visita na zona:1:zona
+nova experiência:1:outros
+ovos moles:1:comida
+cenários:1:decoração|outros
+viajantes:1:outros
+visitantes:1:outros
+azulejo:1:decoração|equipamento
+lamb jalfrezi:1:comida
+snacks:1:comida
+tamaras:1:comida
+entretenimento:1:outros
+entradas+prato:1:comida
+energias:1:outros|serviço
+frutinhas:1:comida
+menus vegetarianos:1:comida
+vinhos italianos:1:bebida|zona
+fundação:1:instalações|zona
+cotação:1:outros
+chyau:1:comida
+atum braseado:1:comida
+estética:1:decoração
+peixes exóticos:1:comida
+bivalves:1:comida
+tomate malandrinho:1:comida
+tasca tipica:1:instalações|zona
+vinho douro branco:1:bebida
+arroz marisco:1:comida
+paté:1:comida
+ingredientes regionais:1:comida|zona
+desempenho:1:serviço
+primeira experiência:1:outros
+qualidade na confecção:1:comida|serviço
+comidinhas típicas:1:comida|zona
+cozinha marroquina:1:comida|zona
+pestiscaria:1:comida
+cosinha:1:comida
+culinária multiregional:1:comida|zona
+ice:1:comida
+curry:1:comida
+gunkan ice:1:comida
+camara:1:equipamento
+horta:1:comida|zona
+requeijão:1:comida
+estação ferroviaria:1:zona
+provamos:1:comida
+tipico restaurante:1:comida|zona
+vinho tinto alentejano:1:bebida|zona
+place:1:zona
+doces regionais:1:comida|zona
+maracujá:1:comida
+patio:1:instalações
+atmósfera:1:zona|outros|serviço
+cacau:1:bebida|comida
+spaguetti alla:1:comida
+anbiente:1:serviço|zona
+caril tipico:1:comida|zona
+transporte:1:zona
+bolacha maria:1:comida
+sobremesa leite creme:1:comida
+farofa:1:comida
+produtos tradicionais:1:comida|história
+postinha:1:comida
+personalidade:1:outros
+pão italiano:1:comida|zona
+dia seguinte:1:outros
+frutas vermelhas:1:comida
+conceito café:1:outros
+mostarda:1:comida
+aquario:1:equipamento
+praça:1:zona
+traço:1:outros
+pormenores típicos:1:zona|outros
+ristorante:1:comida
+molho vínico:1:comida
+metrô:1:zona
+confeitaria:1:comida
+jhinge makhha:1:comida
+doce tradicional:1:comida|história
+vinho douro:1:bebida
+morangos:1:comida
+atitudes:1:serviço
+japão:1:zona
+opcoes:1:outros
+moqueca:1:comida
+vinho verde alvarinho:1:bebida
+espinho:1:zona
+patria:1:zona
+cerimónias:1:zona
+fundo:1:instalações
+branco chardonnay italiano:1:bebida|zona
